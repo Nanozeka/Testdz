@@ -1,0 +1,15 @@
+D:\Lessons\TEST_DZ\Task_0\ConTask\bin\Debug\net6.0\ConTask.exe
+D:\Lessons\TEST_DZ\Task_0\ConTask\bin\Debug\net6.0\ConTask.deps.json
+D:\Lessons\TEST_DZ\Task_0\ConTask\bin\Debug\net6.0\ConTask.runtimeconfig.json
+D:\Lessons\TEST_DZ\Task_0\ConTask\bin\Debug\net6.0\ConTask.dll
+D:\Lessons\TEST_DZ\Task_0\ConTask\bin\Debug\net6.0\ConTask.pdb
+D:\Lessons\TEST_DZ\Task_0\ConTask\obj\Debug\net6.0\ConTask.csproj.AssemblyReference.cache
+D:\Lessons\TEST_DZ\Task_0\ConTask\obj\Debug\net6.0\ConTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\TEST_DZ\Task_0\ConTask\obj\Debug\net6.0\ConTask.AssemblyInfoInputs.cache
+D:\Lessons\TEST_DZ\Task_0\ConTask\obj\Debug\net6.0\ConTask.AssemblyInfo.cs
+D:\Lessons\TEST_DZ\Task_0\ConTask\obj\Debug\net6.0\ConTask.csproj.CoreCompileInputs.cache
+D:\Lessons\TEST_DZ\Task_0\ConTask\obj\Debug\net6.0\ConTask.dll
+D:\Lessons\TEST_DZ\Task_0\ConTask\obj\Debug\net6.0\refint\ConTask.dll
+D:\Lessons\TEST_DZ\Task_0\ConTask\obj\Debug\net6.0\ConTask.pdb
+D:\Lessons\TEST_DZ\Task_0\ConTask\obj\Debug\net6.0\ConTask.genruntimeconfig.cache
+D:\Lessons\TEST_DZ\Task_0\ConTask\obj\Debug\net6.0\ref\ConTask.dll
